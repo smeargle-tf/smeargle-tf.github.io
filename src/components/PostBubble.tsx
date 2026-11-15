@@ -1,6 +1,6 @@
 import { Html } from "@react-three/drei";
 import "./PostBubble.css";
-import blueskyLogo from "src/assets/Bluesky_Logo.svg";
+import blueskyLogo from "../assets/Bluesky_Logo.svg";
 import type { PokemonPost } from "../store/pokemonPostStore";
 
 type PostBubbleProps = {
